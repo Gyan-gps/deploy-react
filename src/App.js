@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      deploy-ract
+      Hello my name is Gyan Prakash Singh.
     </div>
   );
 }
